@@ -1,0 +1,13 @@
+# Byte-compiled / optimised files
+__pycache__/
+*.py[cod]
+
+# Test & coverage artefacts
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
