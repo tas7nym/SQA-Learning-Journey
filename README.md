@@ -1,4 +1,4 @@
-# 🧪 SQA / Quality Engineering Portfolio
+# 🧪 SQA / Quality Engineering Portfolio and Motivation
 
 > *"Quality is never an accident; it is always the result of intelligent effort."* — John Ruskin
 
