@@ -1,0 +1,77 @@
+A real world micro-STLC project simulation : - 
+
+simplified STLC  Execution on open cart  e-commerce platform : -
+
+Phase 1:- Planning & Analysis
+Phase 2 :- Design & Execution
+3 functional requirement analysis of ’’open-cart’’ - , Design & Execution : -
+Account creation and sign-in  ,  adding item and update  ,  check out 
+ 		
+Use case design —
+
+1.
+Use Case - Account creation and sign-in
+Goal -   visitor issues creating account and sign in
+Failed End Condition - fail to create and fail to sign-in
+Primary Actors - visitor and buyer
+Secondary Actors - development team 
+Trigger - Account creation and sign-in request come but fail to execute
+Main Success Scenario - 1. Visitor calls for creating account request
+				1.1. Visitor calls in via pc
+				1.2. Visitor give valid information
+				1.3. Visitor submit
+			    2. Website didn’t receive visitor information
+Quality Requirements  - 1.invalid information shows as notification
+			  2. Shows failing confirmation
+
+
+2.
+Use Case - adding item and update
+Goal -  visitor issues adding and updating product to cart 
+Success End Condition - successfully adding and updating item
+Primary Actors - visitor and buyer
+Secondary Actors - item investor ,website owner , server
+Main Success Scenario - 1. Call for item availability check
+				1.1. Shows available item
+			   2. Enter item amount
+			   3. Adding item to cart
+			   4. View item to cart
+				4.1. Viewing item
+				4.2. Chose to change item amount
+				4.3. Shows updated item
+Alternative Flows - 1. Fail to adding
+			1.1. Item shows
+			1.2. Notify 1015 error
+Quality Requirements  - 1. Buyer must check out within stock limit
+
+
+
+3.
+Use Case - check out 
+Goal - buyer issues check out to the company website and expect good shipped and to be billed.
+Success End Condition - successfully check out with details and shows invoice
+Primary Actors - buyer
+Secondary Actors - bank , item investor , website company
+Main Success Scenario - 1. Buyer call for check out
+   2. Company receive buyer details
+   3. Bank clarify buyer transition  
+Quality Requirements  -  1. Buyer must complete check out with stock availability
+				1.1. Buyer must complete transaction with in 3 minute 
+			 2. Company must keep record of customer record for further warranty 
+and return policy 
+			3. Bank must clarify and give confirmation massage both customer and 
+Company via mail and massage
+
+
+			=====***=====*=====***=====
+
+
+Phase 3 :- Closure
+
+It’s a good website for beginners to test software quality assurance .
+
+
+
+
+
+
